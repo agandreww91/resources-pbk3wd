@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agandreww91.github.io/resources-pbk3wd/sitemap.xml
